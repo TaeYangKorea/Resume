@@ -16,7 +16,7 @@
 <br>
 
 - Email: dbsrhkdid5@naver.com
-- Github: '<github.com/TaeYangKorea>'
+- Github: <https://github.com/TaeYangKorea>
 
 ## 학력
 ---
