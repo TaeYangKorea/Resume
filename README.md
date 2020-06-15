@@ -3,7 +3,7 @@
 
 ## 소개
 ---
-<img src=githubResume.jpg height=150 widht=150>
+<img src=githubResume.jpg height=200 widht=200>
 - 이름 : 박태양
 - 취미&특기 : 음악 감상, 독서, 태권도, 장시간 작업, 자료 찾기 및 찾은 자료 정리
 
