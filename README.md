@@ -12,9 +12,8 @@
 
 <br>
 위에서 적은 유명한 칼럼니스트, Walter Mossberg의 말처럼 컴퓨터 서적만을 따라하는 것이 아니라<br>
-많은 시도를 통해 응용력을 키우고, 프로그램의 범용성을 높일 수 있도록 노력하고 있습니다.
+많은 시도를 통해 응용력을 키우고, 프로그램의 범용성을 높일 수 있도록 노력하고 있습니다.<br>
 
-<br>
 - Email: dbsrhkdid5@naver.com
 - Github: github.com/TaeYangKorea
 
